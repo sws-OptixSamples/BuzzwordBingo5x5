@@ -24,6 +24,7 @@ public class BuzzwordBingo : BaseNetLogic
         // Insert code to be executed when the user-defined logic is started
         LogUser();
         Shuffle();
+
     }
 
     public override void Stop()
